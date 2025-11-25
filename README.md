@@ -1,1 +1,1 @@
-# This IS Basic To-Do List Project Using JavaScript
+# This Is Basic To-Do List Project Using JavaScript
